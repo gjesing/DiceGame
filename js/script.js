@@ -10,3 +10,4 @@ window.onresize = function() {
         table.classList.remove('portraitMode');
     }
 }
+console.log(Math.floor(Math.random() * (7 - 1) + 1));
